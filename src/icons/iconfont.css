@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "iconfont";
+    src: url("./iconfont.ttf") format('truetype');
+}
+
+[class*="mp-icon-"] {
+    font-style: normal;
+    font-family: "iconfont" !important;
+}
+
+.mp-icon-list:before {
+  content: "\e63a";
+}
+
+.mp-icon-prev:before {
+  content: "\e639";
+}
+
+.mp-icon-next:before {
+  content: "\e686";
+}
+
+.mp-icon-pause:before {
+  content: "\e6d9";
+}
+
+.mp-icon-play:before {
+  content: "\e6e2";
+}
+
+.mp-icon-volume-off:before {
+  content: "\e736";
+}
+
+.mp-icon-volume-down:before {
+  content: "\e737";
+}
+
+.mp-icon-volume-up:before {
+  content: "\e738";
+}
+
+.mp-icon-back::before {
+    content: "\e656";
+}
