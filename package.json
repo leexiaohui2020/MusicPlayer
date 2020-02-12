@@ -1,0 +1,20 @@
+{
+  "name": "music-player",
+  "version": "1.0.0",
+  "description": "Vue components",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leexiaohui2020/MusicPlayer.git"
+  },
+  "keywords": [
+    "vue",
+    "components"
+  ],
+  "author": "leexiaohui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leexiaohui2020/MusicPlayer/issues"
+  },
+  "homepage": "https://github.com/leexiaohui2020/MusicPlayer#readme"
+}
